@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/amjadsh97/mortgage-repayment-calculator-app
-- Live Site URL: https://mortgage-repayment-calculator-app.vercel.app/
+- Solution URL: https://github.com/amjadsh97/memory-game
+- Live Site URL: https://memory-game-lake-eta.vercel.app/
 
 ## My process
 
