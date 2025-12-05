@@ -151,6 +151,7 @@ const Board: React.FC = () => {
         </div>
         {isMobile && <button className='menu' onClick={() => setIsMenuOpened(true)}>Menu</button>}
       </div>
+      {/**/}
       <div className={`board has-${state.gridSize}`}>
         {cards.map((card, index) => (
           <Card
